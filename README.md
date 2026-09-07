@@ -73,11 +73,11 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.359 |
-| **Commit** | [`c3b008c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c3b008c1ba01d455351b762253ef44c3ca19653f) |
-| **Commit date** | 2026-09-06 |
-| **Commit title** | nir/serialize: set info.spec to NULL |
-| **Build date** | 20260906 |
-| **Release** | [v26.3.0-20260906-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906-r2) |
+| **Commit** | [`3e2092a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2092a295ad76961bf5f8dfda229e32d9a3f277) |
+| **Commit date** | 2026-09-07 |
+| **Commit title** | panfrost: move a couple of passes from variant to shader creation time |
+| **Build date** | 20260907 |
+| **Release** | [v26.3.0-20260907](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -87,6 +87,7 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260907](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907) | 2026-09-07 | [`3e2092a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2092a295ad76961bf5f8dfda229e32d9a3f277) | panfrost: move a couple of passes from variant to shader creation time | Vulkan 1.4.359 |
 | [v26.3.0-20260906-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906-r2) | 2026-09-06 | [`c3b008c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c3b008c1ba01d455351b762253ef44c3ca19653f) | nir/serialize: set info.spec to NULL | Vulkan 1.4.359 |
 | [v26.3.0-20260906](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906) | 2026-09-06 | [`19935f7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/19935f7e39047146adf1dda213e923b944eefaeb) | Uprev VVL to ad4ed518c3c9783b9c9ff912c205c987b17d7bf4 | Vulkan 1.4.359 |
 <!-- RECENT_BUILDS_END -->

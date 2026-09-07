@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260907](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907) | 2026-09-07 | [`3e2092a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2092a295ad76961bf5f8dfda229e32d9a3f277) | panfrost: move a couple of passes from variant to shader creation time | Vulkan 1.4.359 |
 | [v26.3.0-20260906-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906-r2) | 2026-09-06 | [`c3b008c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c3b008c1ba01d455351b762253ef44c3ca19653f) | nir/serialize: set info.spec to NULL | Vulkan 1.4.359 |
 | [v26.3.0-20260906](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906) | 2026-09-06 | [`19935f7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/19935f7e39047146adf1dda213e923b944eefaeb) | Uprev VVL to ad4ed518c3c9783b9c9ff912c205c987b17d7bf4 | Vulkan 1.4.359 |
 | [v26.3.0-20260905](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260905) | 2026-09-05 | [`86158b8`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/86158b8c7467cadcd24f8a8cf02aa3bc748f7e3f) | brw: Skip DPAS in has_invalid_dst_region | Vulkan 1.4.359 |
