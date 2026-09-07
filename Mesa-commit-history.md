@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260907-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907-r3) | 2026-09-07 | [`acbb4f6`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/acbb4f6b8de2768b5ea7d6a83a8e52a263eac5cc) | radv: disable depth clipping for slow depth clears | Vulkan 1.4.359 |
 | [v26.3.0-20260907-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907-r2) | 2026-09-07 | [`081856b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/081856bc91717badf10e293d9139828639894119) | etnaviv/ci: Update CI expectations | Vulkan 1.4.359 |
 | [v26.3.0-20260907](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907) | 2026-09-07 | [`3e2092a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2092a295ad76961bf5f8dfda229e32d9a3f277) | panfrost: move a couple of passes from variant to shader creation time | Vulkan 1.4.359 |
 | [v26.3.0-20260906-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260906-r2) | 2026-09-06 | [`c3b008c`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c3b008c1ba01d455351b762253ef44c3ca19653f) | nir/serialize: set info.spec to NULL | Vulkan 1.4.359 |
