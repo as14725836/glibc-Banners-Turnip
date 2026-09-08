@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260908-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r4) | 2026-09-08 | [`c29eaf1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c29eaf16219dc0deabe5cdae1b9bfac13220ff7f) | lavapipe: guard AHB/ANB imports with VK_USE_PLATFORM_ANDROID_KHR | Vulkan 1.4.362 |
 | [v26.3.0-20260908-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r3) | 2026-09-08 | [`92833b1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/92833b15d125ab4aa234736f22e5b8504e3d3954) | meson: document bindgen 0.73.0 & 0.73.1 as bad_versions | Vulkan 1.4.359 |
 | [v26.3.0-20260908-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r2) | 2026-09-08 | [`d10ec46`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d10ec46ad5dfbb69e5f2c5f6aad0c7d8483760a5) | tu: Use p_atomic_read to read from query's slot->available | Vulkan 1.4.359 |
 | [v26.3.0-20260908](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908) | 2026-09-08 | [`24ace51`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/24ace51691ae80e535fa2ff51f1e9eb8bddc73b4) | Uprev ANGLE to bda1785b8b16ef93269df45955a367d0d60aca45 | Vulkan 1.4.359 |
