@@ -73,11 +73,11 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.359 |
-| **Commit** | [`24ace51`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/24ace51691ae80e535fa2ff51f1e9eb8bddc73b4) |
+| **Commit** | [`d10ec46`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d10ec46ad5dfbb69e5f2c5f6aad0c7d8483760a5) |
 | **Commit date** | 2026-09-08 |
-| **Commit title** | Uprev ANGLE to bda1785b8b16ef93269df45955a367d0d60aca45 |
+| **Commit title** | tu: Use p_atomic_read to read from query's slot->available |
 | **Build date** | 20260908 |
-| **Release** | [v26.3.0-20260908](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908) |
+| **Release** | [v26.3.0-20260908-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r2) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -87,10 +87,10 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260908-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r2) | 2026-09-08 | [`d10ec46`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d10ec46ad5dfbb69e5f2c5f6aad0c7d8483760a5) | tu: Use p_atomic_read to read from query's slot->available | Vulkan 1.4.359 |
 | [v26.3.0-20260908](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908) | 2026-09-08 | [`24ace51`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/24ace51691ae80e535fa2ff51f1e9eb8bddc73b4) | Uprev ANGLE to bda1785b8b16ef93269df45955a367d0d60aca45 | Vulkan 1.4.359 |
 | [v26.3.0-20260907-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907-r3) | 2026-09-07 | [`acbb4f6`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/acbb4f6b8de2768b5ea7d6a83a8e52a263eac5cc) | radv: disable depth clipping for slow depth clears | Vulkan 1.4.359 |
 | [v26.3.0-20260907-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907-r2) | 2026-09-07 | [`081856b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/081856bc91717badf10e293d9139828639894119) | etnaviv/ci: Update CI expectations | Vulkan 1.4.359 |
-| [v26.3.0-20260907](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260907) | 2026-09-07 | [`3e2092a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/3e2092a295ad76961bf5f8dfda229e32d9a3f277) | panfrost: move a couple of passes from variant to shader creation time | Vulkan 1.4.359 |
 <!-- RECENT_BUILDS_END -->
 
 ---
