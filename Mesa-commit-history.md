@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260909-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r3) | 2026-09-09 | [`453b28b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/453b28b23fab47ab086cfbefb33429512114089e) | docs/features.txt: fix PanVK arch qualifiers | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r2) | 2026-09-09 | [`25b4dfa`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25b4dfabf1238079b9d505db4446b42f297dbe33) | Uprev Piglit to 81f9eac8cc0b8b12ace3629a24e934aac8f2c37c | Vulkan 1.4.362 |
 | [v26.3.0-20260909](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909) | 2026-09-09 | [`294e91a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/294e91ade1b979e4ea8d7c504a9254e4c4fc786a) | ir3: Handle non-uniformity of texture_2/sampler_2 | Vulkan 1.4.362 |
 | [v26.3.0-20260908-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r5) | 2026-09-08 | [`12fffa1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/12fffa1edab7eb72a724feb5f0169d4ba9394f52) | brw: always let the driver handle -1 render targets | Vulkan 1.4.362 |
