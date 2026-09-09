@@ -73,11 +73,11 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 | :--- | :--- |
 | **Mesa version** | 26.3.0 |
 | **Vulkan version** | Vulkan 1.4.362 |
-| **Commit** | [`c7fed8e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c7fed8e8b2d336ce22ab95f906310db43716f52c) |
+| **Commit** | [`5728b71`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5728b71668a82e2b0c2ff8193ad5cdeb3bfe49dd) |
 | **Commit date** | 2026-09-09 |
-| **Commit title** | tu: Support VALVE_buffer_device_address_allocation_alignment |
+| **Commit title** | ntv: improve deref type matching when converting vri derefs |
 | **Build date** | 20260909 |
-| **Release** | [v26.3.0-20260909-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r4) |
+| **Release** | [v26.3.0-20260909-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r5) |
 <!-- LATEST_BUILD_END -->
 
 ---
@@ -87,13 +87,13 @@ Targets Adreno 800-series (Snapdragon 8 Elite — A810, A825, A829, A830). Built
 <!-- RECENT_BUILDS_START -->
 | Tag | Date | Commit | Description | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260909-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r5) | 2026-09-09 | [`5728b71`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5728b71668a82e2b0c2ff8193ad5cdeb3bfe49dd) | ntv: improve deref type matching when converting vri derefs | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r4) | 2026-09-09 | [`c7fed8e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c7fed8e8b2d336ce22ab95f906310db43716f52c) | tu: Support VALVE_buffer_device_address_allocation_alignment | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r3) | 2026-09-09 | [`453b28b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/453b28b23fab47ab086cfbefb33429512114089e) | docs/features.txt: fix PanVK arch qualifiers | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r2) | 2026-09-09 | [`25b4dfa`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25b4dfabf1238079b9d505db4446b42f297dbe33) | Uprev Piglit to 81f9eac8cc0b8b12ace3629a24e934aac8f2c37c | Vulkan 1.4.362 |
 | [v26.3.0-20260909](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909) | 2026-09-09 | [`294e91a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/294e91ade1b979e4ea8d7c504a9254e4c4fc786a) | ir3: Handle non-uniformity of texture_2/sampler_2 | Vulkan 1.4.362 |
 | [v26.3.0-20260908-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r5) | 2026-09-08 | [`12fffa1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/12fffa1edab7eb72a724feb5f0169d4ba9394f52) | brw: always let the driver handle -1 render targets | Vulkan 1.4.362 |
 | [v26.3.0-20260908-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r4) | 2026-09-08 | [`c29eaf1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c29eaf16219dc0deabe5cdae1b9bfac13220ff7f) | lavapipe: guard AHB/ANB imports with VK_USE_PLATFORM_ANDROID_KHR | Vulkan 1.4.362 |
-| [v26.3.0-20260908-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260908-r3) | 2026-09-08 | [`92833b1`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/92833b15d125ab4aa234736f22e5b8504e3d3954) | meson: document bindgen 0.73.0 & 0.73.1 as bad_versions | Vulkan 1.4.359 |
 <!-- RECENT_BUILDS_END -->
 
 ---

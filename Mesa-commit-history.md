@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260909-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r5) | 2026-09-09 | [`5728b71`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5728b71668a82e2b0c2ff8193ad5cdeb3bfe49dd) | ntv: improve deref type matching when converting vri derefs | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r4) | 2026-09-09 | [`c7fed8e`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/c7fed8e8b2d336ce22ab95f906310db43716f52c) | tu: Support VALVE_buffer_device_address_allocation_alignment | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r3](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r3) | 2026-09-09 | [`453b28b`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/453b28b23fab47ab086cfbefb33429512114089e) | docs/features.txt: fix PanVK arch qualifiers | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r2) | 2026-09-09 | [`25b4dfa`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/25b4dfabf1238079b9d505db4446b42f297dbe33) | Uprev Piglit to 81f9eac8cc0b8b12ace3629a24e934aac8f2c37c | Vulkan 1.4.362 |
