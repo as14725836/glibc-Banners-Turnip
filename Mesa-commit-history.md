@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260910-r2](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260910-r2) | 2026-09-10 | [`6333777`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/6333777cf5fc7f6bbcaaff7777f64e3f99318e5e) | jay: Fix an additional reconvergence issue with the physical CFG | Vulkan 1.4.362 |
 | [v26.3.0-20260910](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260910) | 2026-09-10 | [`1775b1f`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/1775b1fffa90ab04219cac48a5b0a6c0c6d7b45b) | docs/amd/hw: document all image 2D tiling layouts in terms of X/Y bit swizzle | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r6](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r6) | 2026-09-09 | [`0ba4b08`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/0ba4b08edc65075e9346d20d5310261939aaaf48) | anv: Fix barrier after anv_init_update_scratch | Vulkan 1.4.362 |
 | [v26.3.0-20260909-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260909-r5) | 2026-09-09 | [`5728b71`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/5728b71668a82e2b0c2ff8193ad5cdeb3bfe49dd) | ntv: improve deref type matching when converting vri derefs | Vulkan 1.4.362 |
