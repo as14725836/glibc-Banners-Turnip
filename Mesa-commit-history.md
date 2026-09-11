@@ -5,6 +5,7 @@ A complete log of every Banners-Turnip release — newest first. Each entry link
 <!-- BUILDS_TABLE_START -->
 | Tag | Date | Mesa Commit | Commit Title | Vulkan |
 | :--- | :--- | :--- | :--- | :--- |
+| [v26.3.0-20260911-r7](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260911-r7) | 2026-09-11 | [`fa9938a`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/fa9938acf2d513fa102102ec313a98106f1c84b1) | nv30: add missed fdot_replicates flag | Vulkan 1.4.362 |
 | [v26.3.0-20260911-r6](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260911-r6) | 2026-09-11 | [`ef18fe0`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/ef18fe0b975f0616bbdb4d296fbe68caf49043c0) | d3d12: Never claim residency we did not get | Vulkan 1.4.362 |
 | [v26.3.0-20260911-r5](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260911-r5) | 2026-09-11 | [`d1682b4`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/d1682b46cd0761278ac2600bd719a977a9edaff9) | radv/video: Implement cu_qp_delta workaround for old FW | Vulkan 1.4.362 |
 | [v26.3.0-20260911-r4](https://github.com/as14725836/termux-glibc-Banners-Turnip/releases/tag/v26.3.0-20260911-r4) | 2026-09-11 | [`a2315d7`](https://gitlab.freedesktop.org/mesa/mesa/-/commit/a2315d7c81d7dd215a28c8abd18d1c63aeaced0f) | gallivm: bypass vector reduction intrinsic for f16 fmin/fmax on x86 | Vulkan 1.4.362 |
